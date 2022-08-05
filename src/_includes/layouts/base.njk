@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    {# This is the base template for the site–other templates extend this one #}
+    
+    <meta charset="utf-8" />
+    <link rel="icon" href="https://64.media.tumblr.com/d0727639a8db6b73973131bfcd9421c4/tumblr_oy51vjQxA71traaqlo1_1280.jpg#https://64.media.tumblr.com/d0727639a8db6b73973131bfcd9421c4/tumblr_oy51vjQxA71traaqlo1_500.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="maybe useful" />
+    <link rel="stylesheet" type="text/css" href="/public/style.css" />
+    {% seo "" %}
+  </head>
+  <body>
+  <main>
+    
+    {# Page or post content will appear here #}
+  
+    {{ content | safe }}
+
+      <footer class="footer">
+        <div class="links">
+          <a href="/">front door</a>
+          <span class="divider">|</span>
+          <a href="/posts">inside</a>
+          <span class="divider"></span>
+        </div>
+      </footer>
+    
+  </main>
+   
+  </body>
+</html>
