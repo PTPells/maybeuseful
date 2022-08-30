@@ -9,14 +9,29 @@ layout: layouts/post.njk
 *In no particular order...*
 
 **Pono Shim**
-> An aloha response seeks relevance and significance for others and transforms the individuals and problems or issues. It’s continuous presence, awareness, and reflection.  It’s not like throwing water on someone, it seeps and creeps thru the crevices in our lives and others until there’s no more Ahonui, Haahaa, Akahai, Olu olu, and Lokahi.
+>• _An aloha response seeks relevance and significance for others and transforms the individuals and problems or issues. It’s continuous presence, awareness, and reflection.  It’s not like throwing water on someone, it seeps and creeps thru the crevices in our lives and others until there’s no more Ahonui, Haahaa, Akahai, Olu olu, and Lokahi._
 
-> Like a martial art we learn a move and practice, learn a new move and practice, and practice and practice and practice until one day there are no more moves, only movement.  They are learning the moves and one day my aspiration for each one is that there are no more principles or moves, someday there’s only aloha.
+>• _Like a martial art we learn a move and practice, learn a new move and practice, and practice and practice and practice until one day there are no more moves, only movement.  They are learning the moves and one day my aspiration for each one is that there are no more principles or moves, someday there’s only aloha._
+
+**David Kirsh** [Changing the rules: architecture and the new millennium)](https://interactivity.ucsd.edu/articles/Convergence/final.html)
+> • _In a good interface, every effort is made to provide users with the feeling that they can directly manipulate the objects they see. The truth, though, is that users never actually interact with any digital object directly._
+>• _Because in the digital world there are no intrinsic physical constraints, causation is simulated._
+> •_When telepresence is coupled with rich media capture of activity, time, as well as space begins to lose its structuring power on how we must prepare to do what we do where we must._
+
 
 **Maya Angelou** [Desert Island Discs (1988)](https://www.bbc.co.uk/programmes/p009mlht)
-> Because of the routines we follow, we often forget that life is an ongoing adventure…and the sooner we realize that, the quicker we will be able to treat life as art...to bring all our energies to each encounter, to remain flexible enough to notice and admit when what we expected to happen did not happen. We need to remember that we are created creative and can invent new scenarios as frequently as they are needed.
+>• Because of the routines we follow, we often forget that life is an ongoing adventure…and the sooner we realize that, the quicker we will be able to treat life as art...to bring all our energies to each encounter, to remain flexible enough to notice and admit when what we expected to happen did not happen. We need to remember that we are created creative and can invent new scenarios as frequently as they are needed.
 
-> There is the ability to submit to feeling. When you submit to feeling,  embarrassment is not in it. It doesn’t even arise. You admit that you are submitting and feeling lonely or happy and allow then that particular, or those conflicting emotions, to inform the expression.
+>• There is the ability to submit to feeling. When you submit to feeling,  embarrassment is not in it. It doesn’t even arise. You admit that you are submitting and feeling lonely or happy and allow then that particular, or those conflicting emotions, to inform the expression.
+
+**David Kirsh** [Changing the Rules Architecture and the New Millennium](https://adrenaline.ucsd.edu/kirsh/Articles/CoopBuildings/changing_the_rules.pdf)
+
+>• _In a good interface, every effort is made to provide users with the feeling that they can directly manipulate the objects they see. The truth, though, is that users never actually interact with any digital object directly._
+
+**Murray S. Davis**
+> • _...all social theories which are found interesting involve a certain movement of the mind of the audience who finds them so. These theories implicitly articulate the routinely taken-for-granted assumptions of the audience who finds them interesting, and then deny these presumptions in the name of some higher–or more fundamental–truth._
+
+>• _...it is not the inner development of a theory which makes it interesting, but its outer relation to the assumption of its audience._ 
 
 **James P. Carse** [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
 > The most elemental difference between the machine and the garden is that one is driven by a force which must be introduced from without, the other grown by an energy which originates from within itself.
