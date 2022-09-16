@@ -1,7 +1,7 @@
 ---
-title: quotes
+title: Quotes
 description: 
-date: 2022-07-12
+date: 2022-09-15
 tags:
   - posts
 layout: layouts/post.njk
@@ -16,7 +16,17 @@ layout: layouts/post.njk
 **David Kirsh** [Changing the rules: architecture and the new millennium)](https://interactivity.ucsd.edu/articles/Convergence/final.html)
 > • _In a good interface, every effort is made to provide users with the feeling that they can directly manipulate the objects they see. The truth, though, is that users never actually interact with any digital object directly._
 >• _Because in the digital world there are no intrinsic physical constraints, causation is simulated._
-> •_When telepresence is coupled with rich media capture of activity, time, as well as space begins to lose its structuring power on how we must prepare to do what we do where we must._
+
+>• _When telepresence is coupled with rich media capture of activity, time, as well as space begins to lose its structuring power on how we must prepare to do what we do where we must._
+
+**Audre Lorde** [The Transformation of Silence into Language and Action*](https://electricliterature.com/wp-content/uploads/2017/12/silenceintoaction.pdf)
+>• _For we have been socialized to respect fear more than our own needs for language and definition, and while we wait in silence for that final luxury of fearlessness, the weight of that silence will choke us._
+
+>• _...we fear the visibility without which we we cannot truly live._
+
+>• _...that visbility which makes us most vulnerable is that which also is the source of our greatest strength._
+
+>• _...it is not difference which immobilizes us, but silence. And there are so many silences to be broken._
 
 
 **Maya Angelou** [Desert Island Discs (1988)](https://www.bbc.co.uk/programmes/p009mlht)

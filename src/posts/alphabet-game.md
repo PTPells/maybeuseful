@@ -1,5 +1,5 @@
 ---
-title: alphabet game
+title: Alphabet Game
 description: 
 date: 2022-07-12
 tags:

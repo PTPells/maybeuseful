@@ -1,5 +1,5 @@
 ---
-title: bootstrapping language
+title: Metaphor
 description: 
 date: 2022-07-13
 tags:

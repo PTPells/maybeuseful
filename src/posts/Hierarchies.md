@@ -1,5 +1,5 @@
 ---
-title: hierachies accept what they expect
+title: Hierarchies
 description: 
 date: 2022-07-04
 tags:
