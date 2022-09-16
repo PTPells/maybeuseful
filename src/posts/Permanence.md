@@ -1,5 +1,5 @@
 ---
-title: permanence 
+title: Permanence 
 description: 
 date: 2022-07-17
 tags:

@@ -1,18 +1,20 @@
 ---
-title: specificity
+title: Specificity
 description: 
-date: 2022-07-02
+date: 2022-09-11
 tags:
   - posts
 layout: layouts/post.njk
 ---
 **I heard** Lin-Manuel Miranda dismiss the tension people describe between making a film about something specific and its potential for broad appeal.<sup>[i]</sup>
 
-**Since hearing** Miranda name specificity as a property common among impactful creative work, I started noticing other people making a similar observation.<sup>[ii][iii][iv]</sup> 
+**Since hearing** Miranda name specificity as a property common among impactful creative work, I started noticing other people making a similar observation.<sup>[ii][iii][iv][vii]</sup> 
 
-**This observation** holds true for many things that have moved me. Now, I'm curious why. _Why might specificity continue to show up in work that affects me? Why had I instinctively accepted specificity to be in tension with appeal? Why is specificity even something that feels notable enough to talk about?_
+**This observation** holds true for many things that have moved me. Now, I'm curious why. 
 
-**I’m motivated** to sketch answers to these questions to see if "specificity" generalizes to the ideas I work with. And if so, I would like to  hold myself accountable to being more specific.
+_Why might specificity continue to show up in work that affects me? Why had I instinctively accepted specificity to be in tension with appeal? Why is specificity even something that feels notable enough to talk about?_
+
+**I’m motivated** to sketch answers to these questions to see if "specificity" generalizes to the ideas I work with. And if so, I would like to  hold myself accountable to being more specific in this work.
 
 **In short**, I think specificity shows up in work that impacts me because specificity creates potential. 
 
@@ -24,22 +26,23 @@ layout: layouts/post.njk
 * Touch the idea
 * Ask questions about the idea
 * Sense how the idea makes us feel
-* Describe the idea
+* Talk about the idea
 * Relate the idea to our experiences
-* Recognize opportunities to share the idea
+* Recognize opportunities to apply the idea
 * Remember the idea
-* Use the idea
 * Build on the idea
 
-**It’s notable** to me how each of the potentialities listed above is open-ended. They do not suggest what happens next. Said another way: while specificity creates the potential for us to understand, experience, and talk about an idea, a specific idea does not have the ability to control the ways in which we react to it. By definition, we can resonate with and build on a specific idea as easily as we can dismiss it as insignificant and declare it "wrong."
+**It’s notable** to me how each of the potentialities listed above is open-ended. They do not suggest what happens next. Said another way: while specificity creates the potential for people to understand, experience, and talk about an idea, a specific idea does not have the ability to control the ways in which other people react to it. By definition, people can resonate with and build on a specific idea as easily as they can dismiss it as insignificant and declare it "wrong."
 
 _So what might contribute to the perception that specificity and wide appeal are mutually exclusive?_
 
-**For one**, I wonder if few people have directly experienced the evolution of an idea specific enough to fit "inside" of a feeling in one person's body or small enough to fit inside of a single sentence in one person’s mind, to something that is resonant enough to become real. Real enough for people to to perceive the idea as a fixture of reality. And without many people experiencing this kind of evolution, the language to describe it and the knowledge to reproduce it is slow to develop and propogate. We do not walk around seeing the sentences and feelings the ideas emerged form, we see whole objects and the impact they have on us. 
+**For one**, I wonder if relatively few people have directly experienced the evolution of an idea specific enough to fit "inside" of a feeling in one person's body or small enough to fit inside of a single sentence in one person’s mind, to something that is resonant enough to become real. Real enough for people to to perceive the idea as a fixture of reality. And without many people experiencing this kind of evolution, the language to describe it and the knowledge to reproduce it is slow to develop and propogate. We do not walk around seeing the stories, needs, sentences, and feelings the ideas emerged form, we see whole objects and the impact they have on us. 
 
-**As a result**, we conflate an idea's potential impact with its size and choose to explore "big ideas."" We are not practied at holding and working with small, specific ideas.
+**As a result**, we can mistakenly correlate an idea's potential impact with how big we perceive it to be and accordingly, choose to explore "big ideas." We are not practied at holding and working with small, specific ideas.
 
 _Now, why is specificity even something that feels notable enough to talk about?_
+
+For me, specificity is 
 
 I think what it looks like to be specific varies from idea-to-idea and even more so between media. I also think being specific is inherently risky. 
 
@@ -58,7 +61,7 @@ Without a prototype, script, sketch, etc., we lack the boundaries to say "no." W
 there are so many things an idea could "say" and 
 
 
-Because ideas, and the media thorugh which we express them, exist in environments that are you constantly evolving<sup>[v]</sup>,An idea that was effective at delivering a message at one point in time, might lose its potency 
+Because ideas, and the media thorugh which we express them, exist in environments that are you constantly evolving<sup>[vi]</sup>,An idea that was effective at delivering a message at one point in time, might lose its potency 
 
 
 For an idea to be specific, it needs to be constantly managed. 
@@ -81,5 +84,6 @@ iv. "Every sound is associated with a feeling you get. If a snare is banging (BO
 
 v. “Dancing on a tightrope requires that one maintain an equilibrium from one moment to the next by recreating it at every step by means of new adjustments; it requires one to maintain a balance that is never permanently acquired; constant readjustments renews the balance while giving the impression of ‘keeping it’.” [Michel de Certeau](https://en.wikipedia.org/wiki/Michel_de_Certeau) writing in the ["The Practice of Everyday Life"](https://en.wikipedia.org/wiki/The_Practice_of_Everyday_Life)
 
-v. E.g. The the minds of people who are working on the idea, the minds of people who are receiving and applying the idea, the social/organizations structure that supports the idea,  etc.)
+vi. E.g. The the minds of people who are working on the idea, the minds of people who are receiving and applying the idea, the social/organizations structure that supports the idea,  etc.)
 
+vii. "Art may seem to spring from pain, but perhaps that is because pain serves to focus our attention onto details (for instance, the excruciatingly beautiful curve of a lost lover’s neck)." [Julia Cameron](https://en.wikipedia.org/wiki/Julia_Cameron)
