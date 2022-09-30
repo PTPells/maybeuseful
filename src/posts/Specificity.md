@@ -6,13 +6,15 @@ tags:
   - posts
 layout: layouts/post.njk
 ---
+> **"Art may seem to spring from pain, but perhaps that is because pain serves to focus our attention onto details (for instance, the excruciatingly beautiful curve of a lost lover’s neck)."**  [Julia Cameron](https://en.wikipedia.org/wiki/Julia_Cameron)
+
 **I heard** Lin-Manuel Miranda dismiss the tension people describe between making a film about something specific and its potential for broad appeal.<sup>[i]</sup>
 
 **Since hearing** Miranda name specificity as a property common among impactful creative work, I started noticing other people making a similar observation.<sup>[ii][iii][iv][vii]</sup> 
 
 **This observation** holds true for many things that have moved me. Now, I'm curious why. 
 
-_Why might specificity continue to show up in work that affects me? Why had I instinctively accepted specificity to be in tension with appeal? Why is specificity even something that feels notable enough to talk about?_
+_Why might specificity continue to show up in work that affects me? Why had I instinctively accepted specificity to be in tension with appeal?_
 
 **I’m motivated** to sketch answers to these questions to see if "specificity" generalizes to the ideas I work with. And if so, I would like to  hold myself accountable to being more specific in this work.
 
@@ -40,37 +42,9 @@ _So what might contribute to the perception that specificity and wide appeal are
 
 **As a result**, we can mistakenly correlate an idea's potential impact with how big we perceive it to be and accordingly, choose to explore "big ideas." We are not practied at holding and working with small, specific ideas.
 
-_Now, why is specificity even something that feels notable enough to talk about?_
+**I also think** that being specific creates visibility. And, as David Whyte puts it, "...when you’re visible, you can be seen, and when you can be seen, you can be touched, and when you can be touched, you can be hurt."
 
-For me, specificity is 
-
-I think what it looks like to be specific varies from idea-to-idea and even more so between media. I also think being specific is inherently risky. 
-
-In these ways, I think I meet specificifity anew each time I begin a project. 
-
-Specificity, the principle, is always on my mind mind being specific is a practice, a skill that we are needing to deploy in ever-evovling environments. Specificity is never acquired.<sup>[v]</sup> 
-
-**In my experience**, each new project or idea begins with a fairly noisy period. "Noisy" in the sense that a particularly compelling idea is generative...there are so many things I want and think the idea could say! Also "noisy" in the sense that at this early stage, I am often without a prototype that is resonant enough for me to cue off, to know and respect its boundaries well enough to know what to say "no" to.
-
-In this way, specificity is something 
-
-
-
-Without a prototype, script, sketch, etc., we lack the boundaries to say "no." We lack the 
-
-there are so many things an idea could "say" and 
-
-
-Because ideas, and the media thorugh which we express them, exist in environments that are you constantly evolving<sup>[vi]</sup>,An idea that was effective at delivering a message at one point in time, might lose its potency 
-
-
-For an idea to be specific, it needs to be constantly managed. 
-
-
-- it's never quite "achieved"; it's constantly needing to be lost and reacquired
-- it becomes more difficult to be specific the more complex an idea becomes; making things cohere and compress down into a coherent whole is hard
-- saying no a lot
-- https://en.wikipedia.org/wiki/Cynefin_framework
+#TODO: figure out how to tie this all together :) 
 
 
 ---
