@@ -1,5 +1,5 @@
 ---
-title: Glancing in activity space
+title: Activity Space
 description: 
 date: 2022-08-01
 tags:

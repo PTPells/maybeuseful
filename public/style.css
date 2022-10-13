@@ -13,8 +13,8 @@ to this section's matching END comment to see page-specific styles.
   --color-primary: #FFE2D4;
   --wrapper-height: 85vh;
   --image-max-width: 320px;
-  --font-family: "HK Grotesk";
-  --font-family-header: "HK Grotesk";
+  --font-family: "Arial";
+  --font-family-header: "Arial";
 }
 
 /* Basic page style resets */
@@ -27,12 +27,12 @@ to this section's matching END comment to see page-specific styles.
 
 /* Import fonts */
 @font-face {
-  font-family: HK Grotesk;
+  font-family: Arial;
   src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Regular.otf?v=1603136326027")
     format("opentype");
 }
 @font-face {
-  font-family: HK Grotesk;
+  font-family: Arial;
   font-weight: bold;
   src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437")
     format("opentype");
@@ -72,7 +72,7 @@ to this section's matching END comment to see page-specific styles.
   padding: 1rem 0 0.75rem 0;
   width: 100%;
   flex-wrap: wrap;
-  border-top: 4px solid #fff;
+  border-top: .25px solid #fff;
 }
 
 .footer a:not(.btn--remix):link,
@@ -116,7 +116,7 @@ body {
 .content {
   display: flex;
   flex-direction: column;
-  max-width: 450px;
+  max-width: 300px;
   margin: 0 auto;
 }
 
@@ -178,7 +178,7 @@ ul.no-bullet {
 a:not(.btn--remix):link,
 a:not(.btn--remix):visited {
   text-decoration: none;
-  border-bottom: 1.5px solid var(--color-primary);
+  border-bottom: .75px solid var(--color-primary);
   color: var(--background);
 }
 a:hover {
@@ -188,13 +188,13 @@ a:hover {
 /* Title style adjustments */
 .title-lg {
   color: var(--color-text-main);
-  font-family: HK Grotesk;
+  font-family: Arial;
   font-style: normal;
   font-weight: bold;
   line-height: 1.5;
 }
 .title-md {
-  font-size: 56px;
+  font-size: 32px;
 }
 
 /* Layout: Home */
@@ -204,6 +204,7 @@ a:hover {
 .illo-container {
   display: flex;
   justify-content: flex-end;
+  max-width: 150px;
 }
 .illustration {
   max-width: 325px;
@@ -219,10 +220,10 @@ a:hover {
 
 }
 .postTitle {
-  font-size: 4rem;
+  font-size: 2.5rem;
   color: #FFE2D4;
   line-height: 1.1;
-  margin-bottom: 2rem;
+  margin-bottom: .5rem;
 }
 .controls {
   margin: 3rem 0 2rem;

@@ -5,10 +5,15 @@ templateClass: tmpl-home
 
 {# This is the template for individual blog posts–it builds the front matter properties into the page #}
 
+<div>
+    <a title="home" href="http://maybeuseful.org/">home</a> /
+    <a title="index" href="http://maybeuseful.org/posts/">index</a>
+</div>
+
 <div class="wrapper post">
   <div>
     {# The post front matter includes the title property #}
-    <h1 class='postTitle'>{{title}}</h1>
+    <h1 class="postTitle">{{title}}</h1>
 
     {# ADD P ELEMENT FROM TODO ON THE NEXT LINE #}
     
@@ -18,13 +23,13 @@ templateClass: tmpl-home
     {# The previous and next post data is added in .eleventy.js #}
     {% if prevPost.url %}
       <p>
-        <strong>Previous post</strong>: 
+        Previous post: 
         <a class="previous" href="{{ prevPost.url }}">{{ prevPost.data.title }}</a>
       </p>
     {% endif %}
     {% if nextPost.url %}
       <p>
-        <strong>Next post</strong>: 
+        Next post:
         <a class="next" href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
       </p>
     {% endif %}
