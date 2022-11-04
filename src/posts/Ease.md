@@ -1,7 +1,7 @@
 ---
 title: Ease
 description:
-date: Last Modified
+date: 2022-08-30
 tags:
   - posts
 layout: layouts/post.njk

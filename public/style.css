@@ -13,8 +13,8 @@ to this section's matching END comment to see page-specific styles.
   --color-primary: #FFE2D4;
   --wrapper-height: 85vh;
   --image-max-width: 320px;
-  --font-family: "Arial";
-  --font-family-header: "Arial";
+  --font-family: "Source Serif Pro";
+  --font-family-header: "Source     Serif Pro";
 }
 
 /* Basic page style resets */

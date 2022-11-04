@@ -4,4 +4,4 @@ layout: layouts/posts.njk
 
 ## Inside
 
-*Dates represent the last time I edited a given page.*
+*Dates represent when I initially created a given page.*
