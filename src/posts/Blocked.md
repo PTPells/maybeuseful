@@ -49,9 +49,3 @@ I've been using the mug for my morning coffee for about a week now and I'm enjoy
 Sometimes when I take a sip from it, I think about [Super Tramp Coffee's beautiful courtyard](https://www.instagram.com/p/CeQ6Q47s_n6/?hl=en).
 
 I haven't felt any regret about buying the mug either. I bought it for myself and everything seems to be okay :)
-
-#TODO:
-- _something about it feeling good to name that i was blocked_
-- _something about it feeling good to discover a new helpful for tool for unblocking myself_
-- _something about how difficult it can be in these moments to unblock myself_
-

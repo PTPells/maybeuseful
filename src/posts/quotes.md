@@ -6,9 +6,26 @@ tags:
   - posts
 layout: layouts/post.njk
 ---
+#### Olga Tokarczuk [Drive Your Plow Over the Bones of the Dead](https://en.wikipedia.org/wiki/Drive_Your_Plow_Over_the_Bones_of_the_Dead)
+>- Anger makes the mind clear and incisive. able to see more. It sweeps up the other emotions and takes control of the body. Without a doubt Anger is the source of all wisdom, for Anger has the power to exceed any limits.
+
 
 #### David Bohm [Thought As A System](https://www.worldcat.org/title/thought-as-a-system-this-is-a-transcription-of-a-seminar-held-in-ojai-california-from-31-november-to-2-december-1990/oclc/255341896)
+>- We don't need the notion of an identity, of an all-important identity on to which we are going to hold, because that gets in the way of the need to change our reflexes. Once we identify with something, our reflexes are that way - it's very important, 'necessary' and we will want to preserve that identity even though it may involve ideas that are false
+
+>- …identity will give us a certain chemistry. And also we feel that we want to preserve that. The whole body gets used to it. The body itself can get used to a certain chemistry, and demands that that chemistry be preserved.
+
+>- Attention is really a potential to take us deeper.
+
+>- Things we consider real are stable, they resist, they have a kind of internal necessity that holds. The whole idea of reality is bound together with the concept of of necessity...
+
+>- This notion of necessity is not merely intellectual. It involves everything. It involves the chemistry, which means that all the adrenalin you need will be released when you have to defend your assumptions of necessity. Whatever is needed will be made available. And then too, this may have a very valuable side to it. If you are ever going to accomplish anything, you need some of that sense of necessity. If you don't think something is very necessary you won't have much energy to do it.
+
+>- We started out saying the trouble is that the world is in chaos, but I think we end up by saying that thought is in chaos. That's each one of us. And that is the cause of the world's being in chaos. Then the chaos of the world comes back and adds to the chaos of thought.
+
 >- One of the most powerful thoughts people have is the thought of necessity. It is much more than a thought. The word 'necessary' means 'it cannot be otherwise', and the Latin root means 'don't yield'. It suggests the emotional-physical stance of resisting, holding. That's the other side of the reflex system: when you say 'it cannot be otherwise', in effect you're saying: 'It has got to be this way. I have to keep it this way'. You have a hold. Something that is necessary is a very powerful force which you can't turn aside. You may say 'I have to turn it aside.' Thus we establish an order of necessity, saying 'this turns aside for that, and this for that.'
+
+#### 
 
 
 ##### Kevin Lynch [What Time Is This Place](https://mitpress.mit.edu/9780262620321/what-time-is-this-place/)
@@ -252,8 +269,7 @@ layout: layouts/post.njk
 #### **Keller Easterling**
 >- Culture is well rehearsed at pointing to things, calling their names, recognizing their shape, but under rehearsed at describing the interactivity or chemistry between things. So infrastructure space is productively imponderable because it's not a thing. It's a large socio-technical system...it's too large to be in any one place. it can not be assessed by its name, shape or outline.
 
-#### **Robert Axelrod** [The Evolution of Cooperation
-](https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation)
+#### **Robert Axelrod** [The Evolution of Cooperation](https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation)
 >- People tend to resort to the standard of comparison that they have available to them – and this standard is often the success of the other player relative to their own success. This standard leads to envy. And envy leads to attempts to rectify any advantage the other player has attained. In this form of Prisoner’s Dilemma, rectification of the other’s advantage can only be done by defection. But defection leads to more defection and to mutual punishment. So envy is self-destructive.
 
 #### **Sharifah Alshalfan** [The Aftermath of a Masterplan for Kuwait: An Exploration of the Forces that Shape Kuwait City](https://www.cidob.org/en/articulos/monografias/wise_cities_in_the_mediterranean/the_aftermath_of_a_masterplan_for_kuwait_an_exploration_of_the_forces_that_shape_kuwait_city)
@@ -300,7 +316,7 @@ layout: layouts/post.njk
 ##### **Unknown**
 >- Sometimes people use ‘respect’ to mean ‘treating someone like a person’ and sometimes they use ‘respect to mean ‘treating someone like an authority’ and sometimes people who are use to being treated like an authority say ‘if you won’t respect me i won’t respect you’ and they mean ‘if you won’t treat me like an authority i won’t treat you like a person and they’ think they’re being fair but they aren’t.
 
-##### **Masanobu Fukuoka** [*One Straw Revolution*](https://www.worldcat.org/title/one-straw-revolution/oclc/321017489&referer=brief results)
+##### **Masanobu Fukuoka** [One Straw Revolution](https://www.worldcat.org/title/321017489)
   >- Eventually I decided to give my thoughts a form, to put them into practice, and so to determine whether my understanding was right or wrong.
   
 >- Nature , or the body itself, serves as a capable guide. But this subtle guidance goes unheard by most people because of the clamor caused by desire and by the activity of the discriminating mind.
