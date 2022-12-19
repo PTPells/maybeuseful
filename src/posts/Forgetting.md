@@ -7,23 +7,23 @@ tags:
 layout: layouts/post.njk
 
 ---
-Sometimes, I look through the "Memories" Apple Photos presents to me and I'm delightlyfffully surprsied by how quickly I can place myself back in the meoment a picture was taken with.
+Sometimes, I look through the "Memories" Apple Photos presents to me and I'm delightuflly surprsied by how quickly I can place myself back in the moment a picture was taken within.
 
-This feeling of is part relief, "Sigh, I still do remember things."
+This feeling is part relief, *"Sigh, I still do remember things."*
 
-ThisThe fear of I feel a bit uncomfortinablnk it's this is a real fear I cararr
+This fear of forgetting often surfaces for me when I encounter new information, a new feeling, anything abstract really.  
 
-This feeling is part relief from the fear I carry. The fear that I am forgetting more than I used to.
+In these moments, I've developed a reflex to document that thing before it has the opportunity to slip through my grasp and become unretrievable.
 
-I notice this fear when I try to recall something that seems to be just beyond my "grasp."
+Curiously, when I look around the at the objects that surround me in the room I'm sitting in right now, I'm flush with memories. 
 
-The curious thing is that this fear, for me, often surfaces around information, abstract things
+*What gives? These physical objects have naturally accrued meaning and become rich stores of memories I can retrieve. Where might this fear of forgetting be coming from?*
 
-Although, what I’m coming to realize or wonder is whether it’s the tools we use that are not necessarily causing us to forget but preventing us from making memories with/within them
 
-because these tools do not encode a revisiting practice, I wonder the extent to which this forgetting is simply our brains s offloading something from our short term memories but without the reminder / prompt to revisit, maybe it’s easy to assume the memory is no longer there
+One thought: the tools I'm using to consume are not necessarily causing me to forget, but preventing me from making memories with/within them. 
 
-And so this fear/thought perpetuates itself
+They are all flow. They afford saving without a complimentary process for making meaning. They default to newness, feeds. No spontaneous encounters. I see something resonant, save it somewhere, offload it from my short-term memory, and get back to scrolling without ever encountering that thing again. So, it remains unconnected, unlinked, and quickly fades away unsopported by a lattice of links. 
 
-Perhaps i / people stat to assume this is actually us that is breaking.
-And rather than asking more / differently from the tools themselves, we carry the responsibility for the perceived loss and that doesn’t feel good
+Memory gone.
+
+I have more to say here, but the important thing to me in this moment is the freedom from thinking that it is me who is breaking. It is not me. It is the tools themselves and I need more from them.

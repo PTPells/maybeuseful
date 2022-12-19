@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: 
-date: Last Modified
+date: 2022-11-30
 tags:
   - posts
 layout: layouts/post.njk
@@ -77,6 +77,10 @@ layout: layouts/post.njk
 >- Those who attempt to popularize propositions which experts had found interesting often must resort to jargon in order to obscure the fundamental lack of inter-translatability between the universe of discourse of the intellectual specialty and the universe of discourse of the common-sense world.
 
 ##### **James P. Carse** [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
+>- Radios and films allow us to be where we are not and not be where we are. Moreover, machinery is veiling. It is a way of hiding our inaction from ourselves under what appear to be actions of great effectiveness. We persuade ourselves that, comfortable seated behind the wheels of our autos, shielded from every unpleasant change of weather, and raising or lowering our foot an inch or two, we have actually travelled somewhere.
+
+>-
+
 >- The most elemental difference between the machine and the garden is that one is driven by a force which must be introduced from without, the other grown by an energy which originates from within itself.
 
 >- ... our imagination does not create within its outlines but creates the outlines themselves
