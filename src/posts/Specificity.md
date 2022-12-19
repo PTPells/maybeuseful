@@ -44,8 +44,6 @@ _So what might contribute to the perception that specificity and wide appeal are
 
 **I also think** that being specific creates visibility. And, as David Whyte puts it, "...when you’re visible, you can be seen, and when you can be seen, you can be touched, and when you can be touched, you can be hurt."
 
-#TODO: figure out how to tie this all together :) 
-
 
 ---
 i. _"We invariably found, first of all, with the research just into Colombian music and literature, the more specific we went, and we drilled down on those rhythms and those cultures, the more unique a story we were telling. But also, the more specific the concerns, the more relatable they are.”_ | [Lin-Manuel Miranda](https://en.wikipedia.org/wiki/Lin-Manuel_Miranda) in conversation with [Elvis Mitchell](https://en.wikipedia.org/wiki/Elvis_Mitchell) on [KCRW's The Treatment](https://www.kcrw.com/culture/shows/the-treatment/lin-manuel-miranda-tick-tick-boom-and-encanto)
