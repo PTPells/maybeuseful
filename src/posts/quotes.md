@@ -6,6 +6,12 @@ tags:
   - posts
 layout: layouts/post.njk
 ---
+
+#### Paulo Freire [Pedagogy of the Oppressed](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed)
+>- I engage in dialogue not necessarily because I like the other person. I engage in dialogue because I recognize the social and not merely the individualistic character of the process of knowing.
+
+>- Knowledge emerges only through invention and re-invention, through the restless, impatient, continuing, hopeful inquiry human beings pursue in the world, with the world, and with each other.
+
 #### Beyoncé [Life is but a Dream](https://youtu.be/VJizQTAySGQ?t=5204)
 >- When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and eventually become we’re supposed to be. 
 
@@ -548,6 +554,8 @@ layout: layouts/post.njk
 >- To experience is to learn; it means acting on the given and creating out of the given. The given cannot be known in itself. What can be known is a reality that is a construct of experience, a creation of feeling and thought.
 
 >- Freedom implies space; it means having the power and enough room in which to act.
+
+>- Open space has no trodden paths and signposts. It has no fixed pattern of established human meaning; it is like a blank sheet on which meaning may be imposed. Enclosed and humanized space is place.
 
 
 ##### **Antoine de Saint-Exupery**
