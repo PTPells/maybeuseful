@@ -6,11 +6,28 @@ tags:
   - posts
 layout: layouts/post.njk
 ---
+
+#### Paulo Freire [Pedagogy of the Oppressed](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed)
+>- I engage in dialogue not necessarily because I like the other person. I engage in dialogue because I recognize the social and not merely the individualistic character of the process of knowing.
+
+>- Knowledge emerges only through invention and re-invention, through the restless, impatient, continuing, hopeful inquiry human beings pursue in the world, with the world, and with each other.
+
+#### Beyoncé [Life is but a Dream](https://youtu.be/VJizQTAySGQ?t=5204)
+>- When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and eventually become we’re supposed to be. 
+
+#### Donald Judd
+>- Space is made by the artist or architect; it is not found or packaged. It is made by thought.
+
 #### Olga Tokarczuk [Drive Your Plow Over the Bones of the Dead](https://en.wikipedia.org/wiki/Drive_Your_Plow_Over_the_Bones_of_the_Dead)
 >- Anger makes the mind clear and incisive. able to see more. It sweeps up the other emotions and takes control of the body. Without a doubt Anger is the source of all wisdom, for Anger has the power to exceed any limits.
 
+#### Abby Smith Rumsey
+>- We use technology to accumulate facts about the natural and social worlds. But facts are only incidental to memory. They sometimes even get in the way of thoughtful concentration and problem solving. It is the ability for information to be useful both now and in the future that counts. And it is our emotions that tell what is valuable for our survival and well-being.
+
 
 #### David Bohm [Thought As A System](https://www.worldcat.org/title/thought-as-a-system-this-is-a-transcription-of-a-seminar-held-in-ojai-california-from-31-november-to-2-december-1990/oclc/255341896)
+>- There's nothing more ephemeral than thoughts; and yet thoughts can hold themselves by saying 'I must remain this way forever, with absolute necessity.' The point is to have the notion of a *creative* being, rather than of an *identified* being.
+
 >- We don't need the notion of an identity, of an all-important identity on to which we are going to hold, because that gets in the way of the need to change our reflexes. Once we identify with something, our reflexes are that way - it's very important, 'necessary' and we will want to preserve that identity even though it may involve ideas that are false
 
 >- …identity will give us a certain chemistry. And also we feel that we want to preserve that. The whole body gets used to it. The body itself can get used to a certain chemistry, and demands that that chemistry be preserved.
@@ -79,8 +96,6 @@ layout: layouts/post.njk
 ##### **James P. Carse** [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
 >- Radios and films allow us to be where we are not and not be where we are. Moreover, machinery is veiling. It is a way of hiding our inaction from ourselves under what appear to be actions of great effectiveness. We persuade ourselves that, comfortable seated behind the wheels of our autos, shielded from every unpleasant change of weather, and raising or lowering our foot an inch or two, we have actually travelled somewhere.
 
->-
-
 >- The most elemental difference between the machine and the garden is that one is driven by a force which must be introduced from without, the other grown by an energy which originates from within itself.
 
 >- ... our imagination does not create within its outlines but creates the outlines themselves
@@ -143,8 +158,10 @@ layout: layouts/post.njk
 
 >- When thought overwhelms the mind, the mind uses the world...
 
+>- Gesture even conveys things we can’t say—because we don’t yet have the words.
+
 ##### **Jacques Sojcher** 
->- ...everything that speaks, makes noise, passes by, touches us lighty, meets us head on.
+>- ...the element of chance introduced by circumstances, calm or haste, sun or cold, dawn or dusk, the taste of strawberries or abandonment, the half-understood message, the front page of newspapers, the voice on the telephone, the most anodyne conversation, the most anonymous man or woman, everything that speaks, makes noise, passes by, touches us lightly, meets us head on.
 
 ##### **G.K. Chesterton**
 >- The fatal metaphor of progress, which means leaving things behind us, has obscured the real idea of growth, which means leaving things inside us.
@@ -537,6 +554,8 @@ layout: layouts/post.njk
 >- To experience is to learn; it means acting on the given and creating out of the given. The given cannot be known in itself. What can be known is a reality that is a construct of experience, a creation of feeling and thought.
 
 >- Freedom implies space; it means having the power and enough room in which to act.
+
+>- Open space has no trodden paths and signposts. It has no fixed pattern of established human meaning; it is like a blank sheet on which meaning may be imposed. Enclosed and humanized space is place.
 
 
 ##### **Antoine de Saint-Exupery**
