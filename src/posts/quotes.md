@@ -22,6 +22,11 @@ layout: layouts/post.njk
 >- Anger makes the mind clear and incisive. able to see more. It sweeps up the other emotions and takes control of the body. Without a doubt Anger is the source of all wisdom, for Anger has the power to exceed any limits.
 
 #### Abby Smith Rumsey
+>- ...the work of life is endless adaptation, not incremental perfection.
+
+>- The best, if not the only, way to understand the powers and limitations of the technology is to use it.
+
+
 >- We use technology to accumulate facts about the natural and social worlds. But facts are only incidental to memory. They sometimes even get in the way of thoughtful concentration and problem solving. It is the ability for information to be useful both now and in the future that counts. And it is our emotions that tell what is valuable for our survival and well-being.
 
 
