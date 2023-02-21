@@ -14,6 +14,7 @@ layout: layouts/post.njk
 An [experiment](https://ping-practice.gitbook.io/pings/experiment-voice-memos) to use speech to sketch ideas using the Apple Voice Memos app...
 
 #### Sketches
+- 20 Feb 2023: [Prompting Myself](https://www.dropbox.com/s/0u2hnlknkwwvjn7/Prompting%20myself.m4a?dl=0) _2m59s_
 - 15 Feb 2023:[Scaffolding](https://www.dropbox.com/s/bqb737rmamw544s/Scaffolding.m4a?dl=0) _5m32s_
 - 9 Feb 2023: [Creating Space ](https://www.dropbox.com/s/mlnqccqstomynf6/Creating%20Space.m4a?dl=0) _(4m28s)_
 - 8 Feb 2023: [Reflection as Resilience](https://www.dropbox.com/s/mfqdsha91gkeom7/Reflection%20as%20Resilience.m4a?dl=0) _(1m56s)_

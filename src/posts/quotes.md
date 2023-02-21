@@ -7,6 +7,10 @@ tags:
 layout: layouts/post.njk
 ---
 
+#### Yi-Fu Tuan [_Life as a Field Trip_](https://www.are.na/block/20278793) 
+>- A special target of examination ought to be how societies differ in making room for pauses in the midst of life, for it is during such pauses that individuals are able to appraise the meaning of what they have undergone.
+
+
 #### Paulo Freire [Pedagogy of the Oppressed](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed)
 >- I engage in dialogue not necessarily because I like the other person. I engage in dialogue because I recognize the social and not merely the individualistic character of the process of knowing.
 
