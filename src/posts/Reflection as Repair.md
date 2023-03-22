@@ -1,5 +1,5 @@
 ---
-title: Reflection as Repair
+title: Reflection as Resilience 
 description:
 date: 2023-02-12
 tags:
@@ -10,10 +10,10 @@ layout: layouts/post.njk
 
 <small>Posted: 12 Feb 2023 </small>
   <br>
-<small>Edits: 0</small>
+<small>Edits: 1</small>
 
 ---
-When I think of self-reflection as an act of repair, I feel permission to be fluid, open, and experimental.
+When I think of self-reflection as an act of repair, I feel permission to be fluid, open, and experimental. I feel more resilient. 
 
 I'm able to become present in thinking about the intentions, values, and needs that are drawing me to act. I feel less consumed by the infiniteness that is the set of reasons I can use to excuse myself for not acting.
 
