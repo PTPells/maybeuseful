@@ -7,6 +7,10 @@ tags:
 layout: layouts/post.njk
 ---
 
+<small>Updated: 20 Feb 2023</small>
+
+---
+
 #### Yi-Fu Tuan [_Life as a Field Trip_](https://www.are.na/block/20278793) 
 >- A special target of examination ought to be how societies differ in making room for pauses in the midst of life, for it is during such pauses that individuals are able to appraise the meaning of what they have undergone.
 
