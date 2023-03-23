@@ -7,10 +7,7 @@ tags:
 layout: layouts/post.njk
 
 ---
-
-<small>Posted: 12 Feb 2023 </small>
-  <br>
-<small>Edits: 1</small>
+<small>Updated: 12 Feb 2023 </small>
 
 ---
 When I think of self-reflection as an act of repair, I feel permission to be fluid, open, and experimental. I feel more resilient. 

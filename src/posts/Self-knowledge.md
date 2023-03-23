@@ -6,7 +6,8 @@ tags:
   - posts
 layout: layouts/post.njk
 ---
-<small>_Created: 11 July 2021_</small>
+
+<small>Created: 3 Nov 2022</small>
 
 ---
 A friend recently shared that, of late, he has not prioritized writing and notetaking as rigorously as he had in the past. 

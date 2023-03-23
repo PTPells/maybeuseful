@@ -1,5 +1,5 @@
 ---
-title: Sketching with Speech
+title: Voice Sketches
 description:
 date: 2023-02-08
 tags:
@@ -8,12 +8,13 @@ layout: layouts/post.njk
 
 ---
 
-<small>Last updated: 20 Feb 2023</small>
+<small>Updated: 22 Mar 2023</small>
 
 ---
 An [experiment](https://ping-practice.gitbook.io/pings/experiment-voice-memos) to use speech to sketch ideas using the Apple Voice Memos app...
 
 #### Sketches
+- 22 Mar 2023: ["Fleeting Moments"](https://www.dropbox.com/s/l6xzvidkbvabnmc/%E2%80%9CFleeting%20moments%E2%80%9D.m4a?dl=0) | _3m48s_
 - 21 Mar 2023: [Creative Risk](https://www.dropbox.com/s/l0p139zx9idk06d/Creative%20risk.m4a?dl=0) | _5m42s_
 - 20 Feb 2023: [Prompting Myself](https://www.dropbox.com/s/0u2hnlknkwwvjn7/Prompting%20myself.m4a?dl=0) | _2m59s_
 - 15 Feb 2023: [Scaffolding](https://www.dropbox.com/s/bqb737rmamw544s/Scaffolding.m4a?dl=0) | _5m32s_
@@ -22,4 +23,4 @@ An [experiment](https://ping-practice.gitbook.io/pings/experiment-voice-memos) t
 - 28 Jan 2023: [Transcending Interfaces](https://www.dropbox.com/s/vysri9691b7knyw/Transcending%20Interfaces.m4a?dl=0) | _6m48s_
 
 ---
-_For details about how this experiment came to be, what I'm curious to learn through it, and what I'm noticing in the process, see: [Experiment:Voice Memos](https://ping-practice.gitbook.io/pings/experiment-voice-memos)_
+_For details about how this experiment came to be, what I'm curious to learn through it, and what I'm noticing in the process, see: [Experiment: Voice Memos](https://ping-practice.gitbook.io/pings/experiment-voice-memos)_

@@ -7,6 +7,9 @@ tags:
 layout: layouts/post.njk
 ---
 
+<small>Updated: 12 July 2022</small>
+
+---
 When Sara and I can't sleep, we will sometimes play the game described below.
 
 We've also played the game in small transitional moments <sup>[i]</sup> with friends, colleagues, and younger cousins.<sup>[ii]</sup>

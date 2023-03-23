@@ -1,12 +1,15 @@
 ---
 title: Hierarchies
 description: 
-date: 2022-07-04
+date: 2021-10-14
 tags:
   - posts
 layout: layouts/post.njk
 ---
 
+<small>Updated: 14 Oct 2021</small><br>
+
+---
 > _Too much constraint can suffocate natural systems. They never become more complex than the person that designed them: A hierarchy, however, imposes a limitation on the degree of complexity of collective behaviors of the system._  Yaneer Bar-Yam
 
 A couple of years ago, I designed a free-standing kitchen island for the apartment we lived in in North Beach. The top of the island came from a 3" x 24"x 75" piece of recycled eucalyptus butcher block.

@@ -5,6 +5,14 @@ date: 2022-09-11
 tags:
   - posts
 layout: layouts/post.njk
+
+
+---
+
+<small>Edits: 3</small><br>
+<small>Updated: 3 Nov 2022</small>
+
+
 ---
 > **"Art may seem to spring from pain, but perhaps that is because pain serves to focus our attention onto details (for instance, the excruciatingly beautiful curve of a lost lover’s neck)."**  [Julia Cameron](https://en.wikipedia.org/wiki/Julia_Cameron)
 

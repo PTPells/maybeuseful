@@ -7,6 +7,12 @@ tags:
 layout: layouts/post.njk
 
 ---
+
+<small>Edits: 1</small><br>
+<small>Updated: 19 Dec 2022</small><br>
+
+---
+
 Sometimes, I look through the "Memories" Apple Photos presents to me and I'm delightuflly surprsied by how quickly I can place myself back in the moment a picture was taken within.
 
 This feeling is part relief, *"Sigh, I still do remember things."*

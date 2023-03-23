@@ -8,8 +8,6 @@ layout: layouts/post.njk
 
 ---
 
-<small>Created: 30 Aug 2022</small>
-
 <small>Updated: 16 Sep 2022</small>
 
 ---

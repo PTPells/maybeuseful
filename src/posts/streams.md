@@ -7,6 +7,10 @@ tags:
 layout: layouts/post.njk
 ---
 
+<small>Updated: 1 Aug 2022</small>
+
+---
+
 
 Over the past few months, I've been spending more time _thinking with_ new people. Mostly over iMessage or Slack, sometimes synchronoulsy, and in all instances without a clear goal in mind for what we're trying to accomplish or make together.
 
