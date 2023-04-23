@@ -17,7 +17,7 @@ To name what you, and the people with whom you're in conversation with, are noti
 When you are "dotting" you are actively working to:
 1. Relieve/empty yourself of the observations, thoughts, ideas, questions, feelings, experiences, etc. that you are holding
 2. Bring clear enough "shape" to each of those "observations, thoughts, ideas, questions, feelings, experiences, etc." for another person to be able to see the broad "landscape" of dots and the shape of each individual one
-3. Resist the reflex to relate, categorize, or otherwise take action on any dot
+3. Resist the reflex to relate, categorize, respond to, or otherwise take action on any dot
 
 ### Dot<br>
 _noun_<br>
