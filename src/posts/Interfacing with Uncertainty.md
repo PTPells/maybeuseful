@@ -34,7 +34,7 @@ This second question unblocked me and I’d like to try to sketch out what its e
 #### Metaphor
 First, a metaphor to help my future self recognize when the forces of uncertainty are acting on me:
 
-> _Imagine yourself standing comfortably on a stone in the middle of a stream. Ideas emerge for potential steps you could take to get to the other side. You scrutinize each one without pursuing any of them, comforted by the stability of the stone you’re standing on. You are aware that out in the distance is an eventual need to find a way from where you currently are, so you think about another move or revisit one you’d previously decided not to pursue._ 
+> _Imagine yourself standing on a stone in the middle of a river. Ideas emerge for potential steps you could take to get to the other side. You scrutinize each one without pursuing any of them, comforted by the stability of the stone you’re standing on. You are aware that out in the distance is an eventual need to find a way from where you currently are, so you think about another move or revisit one you’d previously decided not to pursue._ 
 
 > _Still no steps. More mental movement without corresponding action._ 
 
@@ -49,9 +49,9 @@ Me not trusting that I'd be able to meet my needs in a situation I did not antic
 
 I think "underneath" this approach is the assumption that through thinking alone you can learn and know. Although, I think the faultiness of this approach reveals itself through the movement the approach fails to inspire.
 
-Certainty is expensive (broadly defined). Even more so when you seek it externally, where the environment is more variable, dynamic, and allergic to control.
+I accept that I need certainty to proceed. I also recognize that creating certainty is expensive (broadly defined). Even more so when you seek it externally, where the environment is more variable, dynamic, and allergic to control.
 
-It therefore seems wise to seek within by nourishing the internal capacities and relationships I can depend on help me heal, repair, and make sense of the unvertainty I will invariably find myself within if I continue being move towards living a life off-script
+Therefore, it seems wise to allocate the limited resources available to you to create certainty by nourishing the internal capacities and relationships I can depend on to help me heal, repair, and make sense of the unvertainty I will invariably find myself within if I continue being move towards living an unscripted life.
 
 
 ---
