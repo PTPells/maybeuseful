@@ -7,13 +7,14 @@ tags:
 layout: layouts/post.njk
 
 ---
-<small>Created: 13 July 2021 </small>
+<small>Created: 13 July 2021 </small><br>
+<small>Updated: 27 July 2023 </small>
 
 ---
-When you listen for an answer, you are looking for something specific. You have a boundary in mind for what does and does not fit within it.
+When you listen for an answer, you are looking for something specific. You have a boundary in mind for what does and does not fit.
 
-Said in another way: you are listening with a scriptt, through the past rather than listening for what is present and potentially fresh and new.
+Said in another way: you are listening with a script in-hand, closed off to what is present and potentially, fresh and new.
 
-I think this is something important for me to consider as I think about resonance...
+I think this is something important for me to consider as I think about making on my own...
 
-I wonder how much I get in my own way when working on personal projects because I am too quick to judge and reject resonance because I do not see a place for it within what I already deciding I'm seeking.
+I wonder: _How might I become a bit more aware of when and why I decide to say "no" to ideas that emerges when I'm making on my own?_  
