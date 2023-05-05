@@ -7,7 +7,8 @@ tags:
 layout: layouts/post.njk
 
 ---
-<small>Created: 5 May 2023 </small>
+<small>Posted: 5 May 2023 </small><br>
+<small>Inspiration: Conversations with Natalia Rodriguez</small>
 
 ---
 #### Situation
@@ -51,7 +52,7 @@ I think "underneath" this approach is the assumption that through thinking alone
 
 I accept that I need certainty to proceed. I also recognize that creating certainty is expensive (broadly defined). Even more so when you seek it externally, where the environment is more variable, dynamic, and allergic to control.
 
-Therefore, it seems wise to allocate the limited resources available to you to create certainty by nourishing the internal capacities and relationships I can depend on to help me heal, repair, and make sense of the unvertainty I will invariably find myself within if I continue being move towards living an unscripted life.
+Therefore, it seems wise to allocate the limited resources available to you to create certainty by nourishing the internal capacities and relationships you can depend on to heal, repair, and make sense of the unvertainty you will invariably confront if you continue being moved to live an unscripted life.
 
 
 ---
