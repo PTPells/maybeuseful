@@ -10,7 +10,7 @@ layout: layouts/post.njk
 ---
 
 <small>Edits: 3</small><br>
-<small>Updated: 3 Nov 2022</small>
+<small>Updated: 29 May 2023</small>
 
 
 ---
@@ -18,7 +18,7 @@ layout: layouts/post.njk
 
 **I heard** Lin-Manuel Miranda dismiss the tension people describe between making a film about something specific and its potential for broad appeal.<sup>[i]</sup>
 
-**Since hearing** Miranda name specificity as a property common among impactful creative work, I started noticing other people making a similar observation.<sup>[ii][iii][iv][vii]</sup> 
+**Since hearing** Miranda name specificity as a property common among impactful creative work, I started noticing other people making a similar observation.<sup>[ii][iii][iv][vii][viii]</sup> 
 
 **This observation** holds true for many things that have moved me. Now, I'm curious why. 
 
@@ -67,3 +67,6 @@ v. “Dancing on a tightrope requires that one maintain an equilibrium from one 
 vi. E.g. The the minds of people who are working on the idea, the minds of people who are receiving and applying the idea, the social/organizations structure that supports the idea,  etc.)
 
 vii. "Art may seem to spring from pain, but perhaps that is because pain serves to focus our attention onto details (for instance, the excruciatingly beautiful curve of a lost lover’s neck)." [Julia Cameron](https://en.wikipedia.org/wiki/Julia_Cameron)
+
+viii. "I think it's interesting to have also that balance between those really clear anchors that are so specific and can't be interpreted in any other way and then parts of it that feel more fluid and that are just open. And it's like, 'when you embrace my impurities
+and I feel clean again' like there's maybe a more obvious way to interpret that, but then it can blossom into a million different ways of thinking and I think I like having that balance because I think being specific as well makes it feel like it's something that you know I really lived and it is." [Arlo Parks on Broken Record](https://www.youtube.com/watch?v=6QtA7CZr3Xc)
