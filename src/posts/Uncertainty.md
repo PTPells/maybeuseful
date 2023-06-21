@@ -1,5 +1,5 @@
 ---
-title: Interfacing with Uncertainty
+title: Uncertainty
 description:
 date: 2023-05-05
 tags:
