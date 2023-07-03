@@ -14,8 +14,9 @@ layout: layouts/post.njk
 An [experiment](https://ping-practice.gitbook.io/pings/experiment-voice-memos) to use speech to sketch ideas using the Apple Voice Memos app...
 
 #### Sketches
-- 8 April 2023: ["Making as describing"](https://www.dropbox.com/s/2ni1our7u5lgebm/Making%20as%20describing.m4a?dl=0) | _4m40s_ 
-- 22 Mar 2023: ["Fleeting Moments"](https://www.dropbox.com/s/l6xzvidkbvabnmc/%E2%80%9CFleeting%20moments%E2%80%9D.m4a?dl=0) | _3m48s_
+- 2 July 2023: ["Where do I put this?"](https://www.dropbox.com/s/p40y5av88kldz3h/%E2%80%9CWhere%20do%20I%20put%20this%E2%80%9D.m4a?dl=0)
+- 8 April 2023: [Making as describing](https://www.dropbox.com/s/2ni1our7u5lgebm/Making%20as%20describing.m4a?dl=0) | _4m40s_ 
+- 22 Mar 2023: [Fleeting Moments](https://www.dropbox.com/s/l6xzvidkbvabnmc/%E2%80%9CFleeting%20moments%E2%80%9D.m4a?dl=0) | _3m48s_
 - 21 Mar 2023: [Creative Risk](https://www.dropbox.com/s/l0p139zx9idk06d/Creative%20risk.m4a?dl=0) | _5m42s_
 - 20 Feb 2023: [Prompting Myself](https://www.dropbox.com/s/0u2hnlknkwwvjn7/Prompting%20myself.m4a?dl=0) | _2m59s_
 - 15 Feb 2023: [Scaffolding](https://www.dropbox.com/s/bqb737rmamw544s/Scaffolding.m4a?dl=0) | _5m32s_
