@@ -20,6 +20,16 @@ layout: layouts/post.njk
 
 >- Knowledge emerges only through invention and re-invention, through the restless, impatient, continuing, hopeful inquiry human beings pursue in the world, with the world, and with each other.
 
+#### [David Bohm](https://en.wikipedia.org/wiki/David_Bohm) in *[Meaning and Information](https://arena-attachments.s3.amazonaws.com/22658355/8754f54b9f7b6dfacd530e2101ffd211.pdf?1689317060)*
+>- ...if somebody sees a different meaning to society or to life, that
+will change society. Every revolution has come from somebody seeing a different meaning in human society.
+
+>- ...creativity requires a free play of thought to move in any direction which creation calls for. If the mind is rigid it cannot be creative. So any fixed position means the end of creativity.
+
+>- The fear of uncertainty is our basic trouble. Uncertainty is the very nature of meaning and the very nature of being, for meaning is always contextdependent. We do not know the context that might come, and this is why we can never be certain that our meanings will be correct and give us security. So if you cannot live with this fact of uncertainty, some distortion is taking place already. 
+
+
+
 #### Beyoncé [Life is but a Dream](https://youtu.be/VJizQTAySGQ?t=5204)
 >- When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and eventually become we’re supposed to be. 
 

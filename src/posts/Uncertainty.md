@@ -11,6 +11,12 @@ layout: layouts/post.njk
 <small>Inspiration: Conversations with Natalia Rodriguez</small>
 
 ---
+
+> *"The fear of uncertainty is our basic trouble. Uncertainty is the very nature of meaning and the very nature of being, for meaning is always contextdependent. We do not know the context that might come, and this is why we can never be certain that our meanings will be correct and give us security. So if you cannot live with this fact of uncertainty, some distortion is taking place already."* 
+
+[David Bohm](https://en.wikipedia.org/wiki/David_Bohm) in *[Meaning and Information](https://arena-attachments.s3.amazonaws.com/22658355/8754f54b9f7b6dfacd530e2101ffd211.pdf?1689317060)*
+
+
 #### Situation
 In April, I started a two-month sabbatical. I arrived to my computer on the first weekday morning flush with ideas for how I might get started and clear about what I’d like to finish the sabbatical feeling and having done. 
 
