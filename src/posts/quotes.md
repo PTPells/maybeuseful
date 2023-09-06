@@ -11,6 +11,12 @@ layout: layouts/post.njk
 
 ---
 
+
+##### Yi-Fu Tuan [Language and the Making of Place](https://www.jstor.org/stable/2563430)
+>- Words have the general power to bring to light experiences that lie in the shadow or have receded into it, and the specific power to call places into being. It may need only a few kind words among friends to change an ordinary kitchen into a bright and happy place.
+
+
+
 #### Yi-Fu Tuan [_Life as a Field Trip_](https://www.are.na/block/20278793) 
 >- A special target of examination ought to be how societies differ in making room for pauses in the midst of life, for it is during such pauses that individuals are able to appraise the meaning of what they have undergone.
 

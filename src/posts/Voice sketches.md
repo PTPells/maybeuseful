@@ -1,7 +1,7 @@
 ---
 title: Voice Sketches
 description:
-date: 2023-02-08
+date: 2023-09-05
 tags:
   - posts
 layout: layouts/post.njk
@@ -14,7 +14,8 @@ layout: layouts/post.njk
 An [experiment](https://ping-practice.gitbook.io/pings/experiment-voice-memos) to use speech to sketch ideas using the Apple Voice Memos app...
 
 #### Sketches
-- 2 July 2023: ["Where do I put this?"](https://www.dropbox.com/s/p40y5av88kldz3h/%E2%80%9CWhere%20do%20I%20put%20this%E2%80%9D.m4a?dl=0)
+- 4 Sep 2023: [Drop Journal and Capacity](https://www.dropbox.com/scl/fi/hrnshybstxsoyaag0i3ok/Drop-Journal-and-capacity.m4a?rlkey=nlymv6hsveymftxcc3sa6qzgz&dl=0) | _2m13s_
+- 2 July 2023: ["Where do I put this?"](https://www.dropbox.com/s/p40y5av88kldz3h/%E2%80%9CWhere%20do%20I%20put%20this%E2%80%9D.m4a?dl=0) | _1m25s_
 - 8 April 2023: [Making as describing](https://www.dropbox.com/s/2ni1our7u5lgebm/Making%20as%20describing.m4a?dl=0) | _4m40s_ 
 - 22 Mar 2023: [Fleeting Moments](https://www.dropbox.com/s/l6xzvidkbvabnmc/%E2%80%9CFleeting%20moments%E2%80%9D.m4a?dl=0) | _3m48s_
 - 21 Mar 2023: [Creative Risk](https://www.dropbox.com/s/l0p139zx9idk06d/Creative%20risk.m4a?dl=0) | _5m42s_
