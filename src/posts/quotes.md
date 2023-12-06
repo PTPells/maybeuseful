@@ -7,12 +7,20 @@ tags:
 layout: layouts/post.njk
 ---
 
-<small>Updated: 22 Mar 2023</small>
+<small>Updated: 6 Dec 2023</small>
 
 ---
 
+#### David Abram [The Spell of the Sensuous](https://search.worldcat.org/title/32819541)
+>- ..,the act of perception is always open-ended and unfinished, are are never wholly locked into any particular instance of participation.
+>- ...it is when the magician lets _himself_ be captured by the magic that his audience will be most willing to join him.
+>- Once our bodies master these functions, the machine-made objects commonly teach our senses nothing further; they are unable to surprise us, and so we must continually acquire new built objects, new technologies, the latest model of this or that if we wish to stimulate ourselves.
+>- Genuine art, we might say, is simply human creation that does not stifle the nonhuman element but, rather, allows whatever is Other in the materials to continue to live and breathe.
 
-##### Yi-Fu Tuan [Language and the Making of Place](https://www.jstor.org/stable/2563430)
+#### Maurice Merleau-Ponty [Phenemonology of Perception](https://en.wikipedia.org/wiki/Phenomenology_of_Perception)
+>- Hardness and softness, roughness and smoothness, moonlight and sunlight present themselves in our recollection not preeminently as sensory contents but as certain kinds of symbioses, certain ways outside has of invading us and certain ways we have of meeting this invasion...
+
+#### Yi-Fu Tuan [Language and the Making of Place](https://www.jstor.org/stable/2563430)
 >- Words have the general power to bring to light experiences that lie in the shadow or have receded into it, and the specific power to call places into being. It may need only a few kind words among friends to change an ordinary kitchen into a bright and happy place.
 
 
