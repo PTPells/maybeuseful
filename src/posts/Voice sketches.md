@@ -8,7 +8,7 @@ layout: layouts/post.njk
 
 ---
 
-<small>Updated: 22 Mar 2023</small>
+<small>Updated: 4 Sep 2023</small>
 
 ---
 An [experiment](https://ping-practice.gitbook.io/pings/experiment-voice-memos) to use speech to sketch ideas using the Apple Voice Memos app...

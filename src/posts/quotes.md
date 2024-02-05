@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<small>Updated: 6 Dec 2023</small>
+<small>Updated: 4 Feb 2024</small>
 
 ---
 
@@ -35,6 +35,9 @@ layout: layouts/post.njk
 >- Knowledge emerges only through invention and re-invention, through the restless, impatient, continuing, hopeful inquiry human beings pursue in the world, with the world, and with each other.
 
 #### [David Bohm](https://en.wikipedia.org/wiki/David_Bohm) in *[Meaning and Information](https://arena-attachments.s3.amazonaws.com/22658355/8754f54b9f7b6dfacd530e2101ffd211.pdf?1689317060)*
+>- The power of meaning is that it completely organizes being.
+
+
 >- ...if somebody sees a different meaning to society or to life, that
 will change society. Every revolution has come from somebody seeing a different meaning in human society.
 
