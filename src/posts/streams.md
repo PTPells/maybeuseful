@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<small>Updated: 1 Aug 2022</small>
+<small>Updated: 25 April 2024 in conversation with [Carolyn Li-Madeo](http://carolynlimadeo.com/)</small>
 
 ---
 
@@ -36,7 +36,12 @@ So, to hedge against "3.", I've started to bring language to what I am and am no
 
 A metaphor Laurel and I are trying on to establish a shared set of expectations around this particular aspect<sup>[ii]</sup> is that of a stream: 
 
-We are each moving about a steady flow. Sometimes in a position to catch a glance at what is floating past, at other times situated to reach in and pick up with we see before it floats by and escapes us. 
+We are each moving about this flow in our own ways. 
+
+Sometimes, we're in motion, only able to lend a glance at what is floating past. Other times, we're "seated" and ready to reach in and engage with what we see floating by. And always trusting that:
+# Important things will resurface in other channels 
+# If/when one of us notices this space not serving us, we should feel empowered to iterate upon how we think of and use this space
+
 
 So far, I've found the "stream" to create the kind of space and lightness I was hoping for. It's also empowered me to be more explicit when there is something specific I would like to explore toghether. I'm curious to see how other people experience the explicitness I tend towards...I appreciate there is a delicate balance between constraints that "open up" and "close down" exploration.
 
