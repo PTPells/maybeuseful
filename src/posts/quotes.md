@@ -11,6 +11,18 @@ layout: layouts/post.njk
 
 ---
 
+#### Neil Postman [Amusing Ourselves to Death](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death)
+>- ...what ideas are convenient to express inevitably become the important content of a culture. 
+>- ...the clearest way to see through a culture is to attend to its tools for conversation.
+>- Eyeglasses refuted the belief that anatomy is destiny by putting forward the idea that our bodies as well as our minds are improvable.
+>- In a purely oral culture, intelligence is often associated with aphoristic ingenuity, that is, the power to invent compact sayings of wide applicability.
+>- There are also claims that whatever power television might have to undermine rational discourse, its emotional power is so great that it could arouse sentiment against the Vietnam War or against more virulent forms of racism.
+>- The principal strength of the telegraph was its capacity to move information, not collect it, explain it or analyze it.
+>- For even the simplest act of naming a thing is an act of thinking—of comparing one thing with others, selecting certain features in common, ignoring what is different, and making an imaginary category.
+>- There is no such thing in nature as “man” or “tree.” The universe offers no such categories or simplifications; only flux and infinite variety. The photograph documents and celebrates the particularities of this infinite variety. Language makes them comprehensible. 
+>- The average length of a shot on network television is only 3.5 seconds, so that the eye never rests, always has something new to see.
+>- what I am claiming here is not that television is entertaining but that it has made entertainment itself the natural format for the representation of all experience.
+
 #### David Abram [The Spell of the Sensuous](https://search.worldcat.org/title/32819541)
 >- ..,the act of perception is always open-ended and unfinished, are are never wholly locked into any particular instance of participation.
 >- ...it is when the magician lets _himself_ be captured by the magic that his audience will be most willing to join him.
