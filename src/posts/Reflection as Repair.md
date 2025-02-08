@@ -10,11 +10,11 @@ layout: layouts/post.njk
 <small>Updated: 12 Feb 2023 </small>
 
 ---
-When I think of self-reflection as an act of repair, I feel permission to be fluid, open, and experimental. I feel more resilient. 
+When I think of reflection as an act of repair, I feel permission to be fluid, open, and experimental. I feel more resilient. 
 
-I'm able to become present in thinking about the intentions, values, and needs that are drawing me to act. I feel less consumed by the infiniteness that is the set of reasons I can use to excuse myself for not acting.
+I'm able to become present in becoming clear about the intentions, values, and needs that are drawing me to act.
 
-As a result, I notice the hold I've assumed start to relax. I no longer feel the need to exert energy towards controlling an outcome I might not yet be aware I've developed expectations for. [i]
+As a result, I notice the grip I've assumed on trying to know and control what will happen in response start to relax. [i]
 
 I start to trust that whatever the outcome, reflection will create the space I need to heal, to make sense of what happened, and to decide what to try next.[ii]
 

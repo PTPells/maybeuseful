@@ -7,12 +7,32 @@ tags:
 layout: layouts/post.njk
 ---
 
-<small>Updated: 22 Mar 2023</small>
+<small>Updated: 4 Feb 2024</small>
 
 ---
 
+#### Neil Postman [Amusing Ourselves to Death](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death)
+>- ...what ideas are convenient to express inevitably become the important content of a culture. 
+>- ...the clearest way to see through a culture is to attend to its tools for conversation.
+>- Eyeglasses refuted the belief that anatomy is destiny by putting forward the idea that our bodies as well as our minds are improvable.
+>- In a purely oral culture, intelligence is often associated with aphoristic ingenuity, that is, the power to invent compact sayings of wide applicability.
+>- There are also claims that whatever power television might have to undermine rational discourse, its emotional power is so great that it could arouse sentiment against the Vietnam War or against more virulent forms of racism.
+>- The principal strength of the telegraph was its capacity to move information, not collect it, explain it or analyze it.
+>- For even the simplest act of naming a thing is an act of thinking—of comparing one thing with others, selecting certain features in common, ignoring what is different, and making an imaginary category.
+>- There is no such thing in nature as “man” or “tree.” The universe offers no such categories or simplifications; only flux and infinite variety. The photograph documents and celebrates the particularities of this infinite variety. Language makes them comprehensible. 
+>- The average length of a shot on network television is only 3.5 seconds, so that the eye never rests, always has something new to see.
+>- what I am claiming here is not that television is entertaining but that it has made entertainment itself the natural format for the representation of all experience.
 
-##### Yi-Fu Tuan [Language and the Making of Place](https://www.jstor.org/stable/2563430)
+#### David Abram [The Spell of the Sensuous](https://search.worldcat.org/title/32819541)
+>- ..,the act of perception is always open-ended and unfinished, are are never wholly locked into any particular instance of participation.
+>- ...it is when the magician lets _himself_ be captured by the magic that his audience will be most willing to join him.
+>- Once our bodies master these functions, the machine-made objects commonly teach our senses nothing further; they are unable to surprise us, and so we must continually acquire new built objects, new technologies, the latest model of this or that if we wish to stimulate ourselves.
+>- Genuine art, we might say, is simply human creation that does not stifle the nonhuman element but, rather, allows whatever is Other in the materials to continue to live and breathe.
+
+#### Maurice Merleau-Ponty [Phenemonology of Perception](https://en.wikipedia.org/wiki/Phenomenology_of_Perception)
+>- Hardness and softness, roughness and smoothness, moonlight and sunlight present themselves in our recollection not preeminently as sensory contents but as certain kinds of symbioses, certain ways outside has of invading us and certain ways we have of meeting this invasion...
+
+#### Yi-Fu Tuan [Language and the Making of Place](https://www.jstor.org/stable/2563430)
 >- Words have the general power to bring to light experiences that lie in the shadow or have receded into it, and the specific power to call places into being. It may need only a few kind words among friends to change an ordinary kitchen into a bright and happy place.
 
 
@@ -27,6 +47,9 @@ layout: layouts/post.njk
 >- Knowledge emerges only through invention and re-invention, through the restless, impatient, continuing, hopeful inquiry human beings pursue in the world, with the world, and with each other.
 
 #### [David Bohm](https://en.wikipedia.org/wiki/David_Bohm) in *[Meaning and Information](https://arena-attachments.s3.amazonaws.com/22658355/8754f54b9f7b6dfacd530e2101ffd211.pdf?1689317060)*
+>- The power of meaning is that it completely organizes being.
+
+
 >- ...if somebody sees a different meaning to society or to life, that
 will change society. Every revolution has come from somebody seeing a different meaning in human society.
 

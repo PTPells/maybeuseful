@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<small>Updated: 1 Aug 2022</small>
+<small>Updated: 25 April 2024 in conversation with [Carolyn Li-Madeo](http://carolynlimadeo.com/)</small>
 
 ---
 
@@ -24,11 +24,11 @@ A particular moment when I feel a need for some agreement or shared expectation 
 
 In these moments, I feel an instinct to share.
 
-Sometimes when I share, the other person will be there and we'll start exploring together. 
+1. Sometimes when I share, the other person will be there and we'll start exploring together. 
 
-Sometimes when I share, the other person won't be around and when they get back they'll say something to the effect of, _"Neat. I'll think about/look at this soon."_ 
+2. Sometimes when I share, the other person won't be around and when they get back they'll say something to the effect of, _"Neat. I'll think about/look at this soon."_ 
 
-And then other times I won't share because I want to avoid a scenario like second one above where the other person _could_ feel a burden/responsibility to engage with what I've shared. 
+3. And then other times I won't share because I want to avoid a scenario like second one above where the other person _could_ feel a burden/responsibility to engage with what I've shared. 
 
 This third scenario is of concern to me because I worry that these kinds of interactions cause the space to slow down, where the arrival of a notification feels more like "to do" and less like "ah ha.". 
 
@@ -36,7 +36,12 @@ So, to hedge against "3.", I've started to bring language to what I am and am no
 
 A metaphor Laurel and I are trying on to establish a shared set of expectations around this particular aspect<sup>[ii]</sup> is that of a stream: 
 
-We are each moving about a steady flow. Sometimes in a position to catch a glance at what is floating past, at other times situated to reach in and pick up with we see before it floats by and escapes us. 
+We are each moving about this flow in our own ways. 
+
+Sometimes, we're in motion, only able to lend a glance at what is floating past. Other times, we're "seated" and ready to reach in and engage with what we see floating by. And always trusting that:
+1. Important things will resurface in other channels 
+2. If/when one of us notices this space not serving us, we should feel empowered to iterate upon how we think of and use this space
+
 
 So far, I've found the "stream" to create the kind of space and lightness I was hoping for. It's also empowered me to be more explicit when there is something specific I would like to explore toghether. I'm curious to see how other people experience the explicitness I tend towards...I appreciate there is a delicate balance between constraints that "open up" and "close down" exploration.
 
